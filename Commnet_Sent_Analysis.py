@@ -7,7 +7,7 @@ import pickle
 import enchant
 d = enchant.Dict("en_US")
 
-data_dir = "/Users/zacharris/Desktop/reviews/test"
+data_dir = "/Users/.../Desktop/reviews/test"
 categories = ["pos", "neg"]
 
 
